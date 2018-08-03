@@ -1,1 +1,3 @@
-# bamazon
+THe purpose of this application is to allow a user to select from items in a database and choose to purchase a certain amount of one of the listed products. The database will hold the names of the items and the amount in stock. The .js file will send a request to that database and return this to the user, showing them what is available. They will then be prompted to choose an item and the amount of that item they would like that is in stock. The app will then print a confirmation to the user and then also update the database removing what the user just chose out of the stock count.
+
+This implementation can be useful to enable a dynamic inventory counter for a merchant that is selling merchandise. This counter would help inform the user of what is available to help prevent back orders because more items were sold than available.
